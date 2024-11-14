@@ -1,11 +1,13 @@
-[
-  "Rectangle 3",
-  "star icon 1",
-  "star icon 1",
-  "star icon 1",
-  "star icon 1",
-  "Next page",
-  "Multitasking Has Costs",
-  "Handling customers’ needs through chat has some clear advantages, including the ability to assist in real time and offer a quick resolution. However, some challenges can arise when managing multiple chat conversations simultaneously.  In this module, you will learn how “multitasking” affects the brain, and some best practices to get the most out of situations when you must work on multiple tasks.",
-  "Select “Next” to begin."
-]
+{
+  "initialSlideData": [
+    "Rectangle 2",
+    "star icon 1",
+    "star icon 1",
+    "star icon 1",
+    "star icon 1",
+    "Next page",
+    "Multitasking Has Costs",
+    "Handling customers’ needs through chat has some clear advantages, including the ability to assist in real time and offer a quick resolution. However, some challenges can arise when managing multiple chat conversations simultaneously.  In this module, you will learn how “multitasking” affects the brain, and some best practices to get the most out of situations when you must work on multiple tasks.",
+    "Select “Next” to begin."
+  ]
+}
