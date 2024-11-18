@@ -2,7 +2,7 @@ const puppeteer = require("puppeteer");
 const fs = require("fs");
 
 async function scrapeContent(url) {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   const outputData = { content: [] };
 
@@ -50,7 +50,7 @@ async function scrapeContent(url) {
     };
 
     await processSlideData(1);
-    const cursorHoverElements = await iframeFrame.$$(".cursor-hover");
+    const cursorHoverElements = await iframeFrame.$$("#next");
     for (let i = 0; i < cursorHoverElements.length; i++) {
       await cursorHoverElements[i].click();
       await page.waitForTimeout(3000);
