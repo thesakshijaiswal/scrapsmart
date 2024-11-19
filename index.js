@@ -8,34 +8,42 @@ async function scrapeContent(url) {
 
   try {
     await page.goto(url);
-    await page.waitForSelector(".content");
+    await page.waitForSelector(".player");
 
-    const contentDiv = await page.$(".content");
-    await page.waitForSelector(".player", { timeout: 5000 });
-
-    const iframeElement = await contentDiv.$(".player");
+    const iframeElement = await page.$(".player");
     const iframeFrame = await iframeElement.contentFrame();
+    await iframeFrame.waitForSelector("#next");
+
+    let previousSlideContent = null; // To track the last processed content
+    let slideIndex = 1;
 
     const getSlideData = async () => {
       const targetData = await iframeFrame.evaluate(() => {
         const elements = document.querySelectorAll(
           ".slide-container #slide-window .slide-transition-container .slide-layer .slide-object"
         );
+
+        // Filter out empty and short texts for better data extraction
         return Array.from(elements)
           .map((element) => element.getAttribute("data-acc-text"))
-          .filter((text) => text && text.trim() !== "");
+          .filter((text) => text && text.trim() !== "" && text.length > 20);
       });
+
       return targetData;
     };
 
     const processSlideData = async (slideIndex) => {
       const slideData = await getSlideData();
 
-      const meaningfulData = slideData.filter((item) => item.length > 20);
+      // If the content matches the previously processed slide, skip processing
+      if (JSON.stringify(slideData) === JSON.stringify(previousSlideContent)) {
+        return false;
+      }
 
-      const title = meaningfulData.length > 0 ? meaningfulData[0] : null;
+      previousSlideContent = slideData; // Update the previous slide content
 
-      const longestContent = meaningfulData
+      const title = slideData.length > 0 ? slideData[0] : null;
+      const longestContent = slideData
         .filter((item) => item !== title)
         .sort((a, b) => b.length - a.length)[0];
 
@@ -44,19 +52,27 @@ async function scrapeContent(url) {
       if (output.length > 0) {
         console.log(`Processed Strings (Slide ${slideIndex}):`, output);
         outputData.content.push({ slide: slideIndex, data: output });
+        return true;
       } else {
         console.log(`No meaningful content found (Slide ${slideIndex}).`);
+        return false;
       }
     };
 
-    await processSlideData(1);
-    const cursorHoverElements = await iframeFrame.$$("#next");
-    for (let i = 0; i < cursorHoverElements.length; i++) {
-      await cursorHoverElements[i].click();
-      await page.waitForTimeout(3000);
+    while (true) {
+      const isNewSlide = await processSlideData(slideIndex);
 
-      console.log(`Processing slide ${i + 2}`);
-      await processSlideData(i + 2);
+      if (isNewSlide) {
+        console.log(
+          `Processed slide ${slideIndex}. Click "Next" button to move to the next slide.`
+        );
+        slideIndex++;
+      } else {
+        console.log("Waiting for user to navigate to the next slide...");
+      }
+
+      // Wait 10 seconds before checking again
+      await new Promise((resolve) => setTimeout(resolve, 10000));
     }
   } catch (error) {
     console.error("Error scraping content:", error);
