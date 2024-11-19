@@ -5,13 +5,10 @@ async function scrapeContent(url) {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   const outputData = { content: [] };
-
   let repeatedMessageCount = 0;
-
   try {
     await page.goto(url);
     await page.waitForSelector(".player");
-
     const iframeElement = await page.$(".player");
     const iframeFrame = await iframeElement.contentFrame();
     await iframeFrame.waitForSelector("#next");
@@ -43,8 +40,7 @@ async function scrapeContent(url) {
       }
 
       lastSlideContent = slideDataString;
-      repeatedMessageCount = 0; // Reset the counter if new content is found
-
+      repeatedMessageCount = 0;
       if (slideData.length > 0) {
         const title = slideData[0];
         const longestContent = slideData
@@ -68,7 +64,6 @@ async function scrapeContent(url) {
       }
 
       const isNewSlide = await processSlide(slideIndex);
-
       if (isNewSlide) {
         console.log(
           `Slide ${slideIndex} processed. Navigating to the next slide.`
