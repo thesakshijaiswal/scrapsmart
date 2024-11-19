@@ -6,6 +6,8 @@ async function scrapeContent(url) {
   const page = await browser.newPage();
   const outputData = { content: [] };
 
+  let repeatedMessageCount = 0;
+
   try {
     await page.goto(url);
     await page.waitForSelector(".player");
@@ -33,13 +35,15 @@ async function scrapeContent(url) {
       const slideDataString = JSON.stringify(slideData);
 
       if (slideDataString === lastSlideContent) {
+        repeatedMessageCount++;
         console.log(
-          `No new content for slide ${index}. Waiting for navigation.`
+          `No new content for slide ${index}. Waiting for navigation. (${repeatedMessageCount}/2)`
         );
         return false;
       }
 
       lastSlideContent = slideDataString;
+      repeatedMessageCount = 0; // Reset the counter if new content is found
 
       if (slideData.length > 0) {
         const title = slideData[0];
@@ -58,6 +62,11 @@ async function scrapeContent(url) {
     };
 
     while (true) {
+      if (repeatedMessageCount >= 2) {
+        console.log("Stopping scraping due to repeated messages.");
+        break;
+      }
+
       const isNewSlide = await processSlide(slideIndex);
 
       if (isNewSlide) {
