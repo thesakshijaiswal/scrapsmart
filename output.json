@@ -3,43 +3,579 @@
     {
       "slide": 1,
       "data": [
-        "Multitasking Has Costs",
-        "Handling customers’ needs through chat has some clear advantages, including the ability to assist in real time and offer a quick resolution. However, some challenges can arise when managing multiple chat conversations simultaneously.  In this module, you will learn how “multitasking” affects the brain, and some best practices to get the most out of situations when you must work on multiple tasks."
+        "Navigation help screen",
+        "Select each number to learn more about navigation feature.",
+        {
+          "transcript": "Select each number to learn more about navigation feature.Menu: Use the menu to navigate to different lessons and sub lessons within a course.Transcript: Select to see the transcript of the screen you are on.Hamburger (three lines) icon: Select to access the course menu and transcript.Play slide audio: Select to play the audio for the transcript of the screen you on.Seek bar: Use the seek bar to navigate content within a screen.Replay: Select to replay the content on a screen.Volume: Select to adjust the volume.Playback speed: Select to adjust the speed at which content appears on a screen.Previous: Select to navigate to previous screen.Next: Select to navigate the next screen."
+        }
       ]
     },
     {
       "slide": 2,
       "data": [
-        "Multitasking is Task-Switching",
-        "Has anyone ever bragged to you about how good they are at multitasking? Or has someone in a job interview asked you to rate your ability to multitask? At times, we all do what is referred to as “multitasking” without even realizing it. Do you ever watch TV and browse the internet at the same time, or respond to emails while listening to a podcast? Recent studies prove that multitasking is a myth, with many reporting a decrease of up to 40% in productivity in addition to diminished cognitive memory and creativity. The reality is that multitasking is not truly attainable. When we engage in multiple tasks at once, our brain is actually switching between the tasks, focusing on one task at a time. As we switch back and forth quickly, it gives the illusion of multitasking. Many people have moved past the word “multitasking” and instead use the term “task-switching.”  It can be a challenge to remain self-aware of the diminishing returns caused by task-switching. When we complete a task, our brain sends signals that make us feel happy, positive, and motivated. That rush encourages us to take on more, and it creates a vicious cycle of task-switching. This effect on the brain is the same whether we’re working on complicated tasks, such as surgery or flying a plane, or simple tasks like scrolling through social media or cooking.  Neuroscience studies have measured cognitive strain while task-switching. Our brain has inhibitors that block out unnecessary background noises and distractions. But task-switching overwhelms those inhibitors so that they’re unable to filter out distractions. This adds a level of cognitive overload and stress that we don’t experience when we’re limited to a single task.  Some argue that younger generations can handle task-switching due to being born in a society overflowing with technology. But mental health surveys, in conjunction with the scientific research around task-switching, suggest otherwise. According to these studies, the cognitive strain of task-switching leads to added stress in any person’s life. Task-switching is inevitable to a certain degree. As a customer service agent, being asked to manage multiple digital conversations simultaneously (often in a multichannel environment) is normal. But you can better manage task-switching when you apply some best practices. Batch your work. Remove distractions. Organize your activities. Take advantage of technology. These are a few of the ideas this lesson will explore to help you succeed while task-switching. Productive task-switching may sound like an “X-factor\" skill. In reality, it is a myth. We can, however, change our habits to maximize our efforts. Take a deep breath, prioritize the tasks at hand, and feel the calmness replace the chaos. Your brain will thank you—and so will your customers. Select “Skip Video” to proceed."
+        "Fly in from right animation: Decorative image",
+        "Lesson 1: \rIntroduction",
+        {
+          "transcript": "Select Next to continue.​"
+        }
       ]
     },
     {
       "slide": 3,
       "data": [
-        "Outputs of Task-Switching",
-        "Neuroscience has been able to pinpoint what parts of the brain are affected by task-switching. Through this research, we can determine where in the brain cognitive fatigue is taking place and to what degree. Select the four hotspots on the brain to learn more about how each part reacts to task-switching. When finished, select “Next” to continue. "
+        "accessible Word documents  w AI character_CLEAN.mp4",
+        {
+          "transcript": "In today's digital age, accessibility is not just a feature; it's a necessity. Whether you're drafting reports, memos, or any other type of document in Microsoft Word it's crucial to ensure that they are accessible to all users.This course will teach you how to create accessible Word documents from which all users can benefit."
+        }
       ]
     },
     {
       "slide": 4,
       "data": [
-        "Juggling Tasks: The Hidden Costs",
-        "You’ll now put the task-switching theory to the test. First, you’ll answer the following simple math equations to establish a baseline. Next, you’ll repeat the process but with added instructions and distractions. Finally, you’ll reflect on a few questions and observations.  This activity is just for fun. There are no grades or reporting, and there are no mandatory benchmarks to hit. The purpose is to demonstrate the effects of task-switching in an enjoyable way. Have fun and participate fully to see the impact of task-switching. Note: Navigation using \"Previous\" and \"Next\" will remain disabled during this activity. Select “Start” when you are ready to begin. After completing the ten questions, select “Finish.”"
+        "A document icon and a circular target-like design.",
+        "By the end of this course, you will be able to do \rthe following: Apply best practices for using headings and styles to improve document structure Explain document metadata and its importance for accessibility Use the accessibility checker to identify and fix accessibility issues Evaluate accessible practices for exporting to a PDF",
+        {
+          "transcript": "Learning ObjectivesBy the end of this course, you will be able to do the following:•Apply best practices for using headings and styles to improve document structure•Explain document metadata and its importance for accessibility•Use the accessibility checker to identify and fix accessibility issues•Evaluate accessible practices for exporting to a PDF"
+        }
       ]
     },
     {
       "slide": 5,
       "data": [
-        "The last activity was for you, and you alone. The time each round took isn’t important. The accuracy of your answers isn’t important. What’s valuable is understanding and feeling the pressures task-switching adds to accomplishing simple tasks.  Take a moment to reflect on a few questions below. After completing the questions, you may select “Print” to print the form.  When finished, select “Next” to continue. ",
-        "How was your time to complete rounds two and three affected by adding additional tasks and distractions? Can you recall times at work when task-switching may have negatively impacted your performance?"
+        "Lesson 2: \rBenefits of Creating Accessible Documents",
+        {
+          "transcript": "Select Next to continue.​"
+        }
       ]
     },
     {
       "slide": 6,
       "data": [
-        "Task-switching can add a lot of stress to the brain. Being aware of the effects of task-switching will help you realize when it’s happening. In some situations, it may be impossible to prevent. With the right techniques, you can begin to see positive results, such as more accuracy and efficiency, while task-switching. Keeping the brain focused will keep you sharp at work.",
-        "Close this window and continue with your training."
+        "Accessible Word documents are files created in Microsoft Word designed to be usable by everyone. By making your documents accessible, you: open the doors to a wider audience  enhance user experience foster a culture of equality and inclusivity.",
+        "Accessible Word documents are files created in Microsoft Word designed to be usable by everyone.",
+        {
+          "transcript": "Accessible Word documents are files created in Microsoft Word designed to be usable by everyone, including users who use assistive technologies, such as screen readers or text-to-speech tools.By making your documents accessible, you open the doors to a wider audience, enhance user experience, and foster a culture of equality and inclusivity."
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "data": [
+        "Select each image to explore two key benefits of creating accessible documents.",
+        "Select each image to explore two key benefits of creating accessible documents.",
+        {
+          "transcript": "Select each image to explore two key benefits of creating accessible documents.Promote InclusivityAccessible Word documents allow all users, regardless of physical or cognitive abilities, to access and better understand the information. This fosters an inclusive environment where everyone has equal access to information and opportunities.Enhance UsabilityDocuments that are accessible are generally easier to navigate and read. Features such as clear headings, simple text, and descriptive links make the content more straightforward and user-friendly. Accessible Word documents improve usability for everyone."
+        }
+      ]
+    },
+    {
+      "slide": 8,
+      "data": [
+        "Legal Requirements and Guidelines",
+        "An icon of a computer screen with a balance scale above an outstretched hand. ",
+        {
+          "transcript": "Creating and using accessible Word documents can help you meet the various laws and regulations for accessible digital content and avoid legal actions and penalties."
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "data": [
+        "A circular diagram with a gavel in the center, surrounded by segments labeled ADA, Section 508, and WCAG.",
+        "Select each section to explore three key laws and guidelines.",
+        {
+          "transcript": "Select each section to explore three key laws and guidelines.ADAThe ADA mandates that digital content, including Word documents, must be accessible to individuals with disabilities. This law applies to public entities, private employers, and places of public accommodation in the United States. Failing to meet these requirements can result in lawsuits, fines, and other legal actions.Section 508Section 508 requires federal agencies and those receiving federal funding to ensure that their electronic and information technology, including Word documents, is accessible to users with disabilities. This law emphasizes the need for federal websites, documents, and software to be accessible to all.WCAGAlthough primarily designed for web content, the principles of WCAG (A, AA, and AAA levels) are also applicable to digital documents. These guidelines provide a framework for making digital content accessible under the various laws. Following these guidelines can make your content perceivable, operable, understandable, and robust for all users."
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "data": [
+        "Fly in from right animation: Decorative image",
+        "Lesson 3: \rStructuring Documents for Accessibility",
+        {
+          "transcript": "Select Next to continue.​"
+        }
+      ]
+    },
+    {
+      "slide": 11,
+      "data": [
+        "Understanding Navigation and Outline Views for Accessibility",
+        "An icon of a computer screen displaying a document with a speech bubble containing a speaker symbol.",
+        {
+          "transcript": "Two key features within Word—Navigation view and Outline view—play a vital role in making your document easier for users to navigate, especially when using assistive technologies such as screen readers."
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "data": [
+        "Understanding Navigation and Outline Views for Accessibility",
+        "Select each tab to learn about each view.​",
+        {
+          "transcript": "Select each tab to learn about each view.​Navigation ViewThe Navigation pane acts as a digital map for your document. It provides a hierarchical view of the document structure and lists headings, pages, and even bookmarks if you've added them.​Benefits for Accessibility:​•The Navigation view offers a clear and organized way to navigate the document by heading level. Screen reader users can jump to specific sections or skim the overall structure to grasp the content quickly.​•The Navigation view allows you to easily review and reorder the document structure, ensuring that it has a logical flow.​Outline ViewThe Outline view offers a different perspective on your document structure. Similar to a table of contents, the outline view displays the document content in a hierarchical format.​Benefits for Accessibility:​The Outline view provides users with a simplified, text-based overview of the document's structure, which can be helpful for users with visual impairments.​The Outline view allows you to edit and reorganize your content by moving and collapsing sections based on heading levels within the document. This view is particularly helpful when working with complex documents with numerous headings."
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "data": [
+        "Styles allow you to format various aspects of your document, including font size, color, and spacing, all in one place.",
+        "A screenshot of the Home tab in a document editor, showing the Font formatting options, Paragraph alignment tools, and Styles, including Normal, No Spacing, and Heading.",
+        {
+          "transcript": "Styles allow you to format various aspects of your document, including font size, color, and spacing, all in one place.Select each group in the image to learn more about styles in Word.Font styles allow you to change the font type, color, size, and so on. Paragraph styles not only allow to adjust the spacing and alignment of text, but also convert text to lists for better readability.Heading styles help you structure your document using different levels of headings."
+        }
+      ]
+    },
+    {
+      "slide": 14,
+      "data": [
+        " A screenshot of the Home tab in a document editor, showing Clipboard, Font, Paragraph, and Styles sections.",
+        "Select the arrows to learn how to customize styles in Word..​",
+        {
+          "transcript": "Select the arrows to learn how to customize styles in Word..Right-click on a style in the Styles group.Select Modify to change its appearance. ​Adjust the font, size, color, and spacing to ensure that your document is visually appealing and accessible. ​And, then select OK to save your style.​"
+        }
+      ]
+    },
+    {
+      "slide": 15,
+      "data": [
+        "A laptop screen displaying a document editor with a sample document open. The document contains a title \"Document Title,\" headings \"Heading 1\" and \"Heading 2,\" and placeholder text.",
+        "Headings create a logical structure, making it easy for users to understand the hierarchy and flow of information.  Use different levels of headings to break down your content into sections and subsections for a clear and organized layout.",
+        {
+          "transcript": "Headings create a logical structure, making it easy for users to understand the hierarchy and flow of information. For example, use different levels of headings to break down your content into sections and subsections for a clear and organized layout."
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "data": [
+        "Applying Headings in Word​",
+        "Select the arrows to follow the steps for applying headings in Word.​",
+        {
+          "transcript": "Select the arrows to follow the steps for applying headings in Word. Select the text you want to designate as a heading.​Go to the Styles pane on the Home tab and choose the appropriate heading style from the list.​Change the font, size, and color from the Font pane on the Home tab.​"
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "data": [
+        "Use Consistent Headings",
+        "To maintain a clear hierarchy, avoid skipping heading levels. For example:  Use Title for the title or description of your document. Use Heading 1 for the major sections, like chapters in a book. Use Heading 2 for subsections. Use Heading 3 for sections within your subsections. Continue to add heading styles (4, 5, 6, 7, and so on) as you add more subsections.",
+        {
+          "transcript": "To maintain a clear hierarchy, avoid skipping heading levels.For example, use Title for the title or description of your document, Heading 1 for the major sections, like chapters in a book, Heading 2 for subsections, and Heading 3 for sections within your subsections. You can continue to add heading styles (4, 5, 6, 7, and so on) as you add more subsections."
+        }
+      ]
+    },
+    {
+      "slide": 18,
+      "data": [
+        "Activity – Using Correct Heading Levels​",
+        "Use Title for the title or description of your document, use Heading 1 for the major sections, like chapters in a book, and use Heading 2 for subsections.​",
+        {
+          "transcript": "Select the appropriate heading level for each heading from the six drop-down menus. Then, select Submit.​"
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "data": [
+        "Why Headings Matter for Accessibility",
+        "An icon of a computer screen displaying multiple interface elements with a speech bubble containing a megaphone.",
+        {
+          "transcript": "•Users with screen readers can jump between headings to quickly grasp the document's overall structure and locate specific information.•Headings enhance readability for everyone by visually dividing content and making it easier to scan and understand.•Search tools can leverage headings to deliver more relevant results within the document."
+        }
+      ]
+    },
+    {
+      "slide": 20,
+      "data": [
+        "A screenshot of the Paragraph section in a document editor, showing options for bulleted lists, numbered lists, multilevel lists, text alignment, indentation, line spacing, and sorting. ",
+        "Lists help break down complex information into bite-size, easily digestible points.  Properly formatted lists ensure screen readers can accurately announce list items and the hierarchy of nested lists.  Understanding the difference between ordered and unordered lists is crucial for accessibility. ",
+        {
+          "transcript": "Lists help break down complex information into bite-size, easily digestible points. Screen reader users often rely on the structure of a document to navigate and understand the content. Properly formatted lists ensure screen readers can accurately announce list items and the hierarchy of any nested lists.In addition, when creating lists in Word, understanding the difference between ordered and unordered lists is crucial for accessibility."
+        }
+      ]
+    },
+    {
+      "slide": 21,
+      "data": [
+        "Activity – Ordered vs Unordered Lists​",
+        "Use ordered lists for a sequence and unordered for lists when the order of items is not critical.​ ​ Screen readers announce ordered lists with numbering and unordered lists with bullets.​ ​ For example, use an ordered list for a step-by-step process, and an unordered list for key features of a product.​",
+        {
+          "transcript": "Review each of these two lists of information. Should they be formatted as ordered or unordered lists? ​Select the appropriate formatting button for each list, and then select Submit.​Use ordered lists for a sequence and unordered for lists when the order of items is not critical.​ ​ Screen readers announce ordered lists with numbering and unordered lists with bullets.​ ​ For example, use an ordered list for a step-by-step process, and an unordered list for key features of a product.​ ​ Follow these steps to change text into a list:​ ​ •Select the text you want to change to a list.​ •Determine if the list needs to be a bulleted or a numbered list.​ •Select the appropriate type of the list for the Paragraph group.​ ​"
+        }
+      ]
+    },
+    {
+      "slide": 22,
+      "data": [
+        "Creating Accessible Lists in Word​",
+        "Select each tab to review tips for creating accessible lists in Word.​",
+        {
+          "transcript": "Select each tab to learn about creating accessible lists in Word.​Built-In List Styles​•Word offers a variety of built-in list styles, like bulleted and numbered, under the Paragraph tab. These styles ensure proper formatting and information for screen readers.​•Avoid using keyboard characters (*, -) to create lists, as screen readers might announce them as single characters instead of list items.​Clear and Concise List Items​•Ensure each list item conveys a complete thought or idea.•Long, complex sentences within list items can be difficult for screen reader users to follow.​Logical Nesting for Complex Lists​•For nested lists (lists within lists), use the Increase Indent and Decrease Indent buttons to maintain a clear hierarchy.•Screen readers will announce the level of nesting (e.g., \"Item 1 of sublist 2 under list A\").​Descriptive List Titles​•When using a list to convey a specific concept, consider adding a descriptive title above the list to provide additional context for screen reader users.​Alternative List Representations​•For complex data sets within lists, consider including a table as an alternative representation. ​•Tables can be more efficient for presenting intricate data compared to long lists.​"
+        }
+      ]
+    },
+    {
+      "slide": 23,
+      "data": [
+        "Are ideal for organizing data into rows and columns​",
+        "An icon of a dashboard with a list, connected nodes, a bar chart, and a pie chart. ",
+        {
+          "transcript": "Tables are ideal for organizing data into rows and columns, making it easier to compare and analyze information. ​They provide a clear structure that helps users understand the relationships between different data points. ​While the logical structure of tables makes it easier for screen readers to navigate and understand the content, inaccessible tables can be confusing, making it difficult to grasp the relationships between data points.​"
+        }
+      ]
+    },
+    {
+      "slide": 24,
+      "data": [
+        "Why do headings matter for accessibility?",
+        "Headings help in screen navigation by enabling readers to jump between headings and grasping the documents overall structure, which facilitates location of specific information.",
+        {
+          "transcript": "Why do headings matter for accessibility? Select all the correct options and then select Submit.Correct•Headings visually divide content, making it easier to scan and understand, and therefore enhance the readability of the content. •Headings improve search functionality because search tools can leverage headings to deliver relevant results within the document. •Headings help in screen navigation by enabling readers to jump between headings and grasping the documents overall structure, which facilitates location of specific information.Select NEXT to continue.Incorrect•Headings visually divide content, making it easier to scan and understand, and therefore enhance the readability of the content. •Headings improve search functionality because search tools can leverage headings to deliver relevant results within the document. •Headings help in screen navigation by enabling readers to jump between headings and grasping the documents overall structure, which facilitates location of specific information.Select NEXT to continue."
+        }
+      ]
+    },
+    {
+      "slide": 25,
+      "data": [
+        "Lesson 4: \rAccessible Elements for Word Documents",
+        {
+          "transcript": "Select Next to continue.​"
+        }
+      ]
+    },
+    {
+      "slide": 26,
+      "data": [
+        "The most accessible fonts are easily readable. Generally, simpler fonts with less decoration are more accessible, although that doesn't mean that only sans serif fonts are accessible. ​ Recognizable serif fonts like Times New Roman and Georgia are accessible, but script fonts like cursive or calligraphy are a challenge to read.",
+        "The most accessible fonts are easily readable. Generally, simpler fonts with less decoration are more accessible, although that doesn't mean that only sans serif fonts are accessible. ​",
+        {
+          "transcript": "The most accessible fonts are easily readable. Generally, simpler fonts with less decoration are more accessible, although that doesn't mean that only sans serif fonts are accessible. Recognizable serif fonts like Times New Roman and Georgia are accessible, but script fonts like cursive or calligraphy are a challenge to read.​Select a font from the different font types to see the text above change.​"
+        }
+      ]
+    },
+    {
+      "slide": 27,
+      "data": [
+        "Avoid writing in all caps because it's more difficult to read than mixed case. Font size is also important for accessibility. Paragraph text should be at least 12 to 14 pts.​",
+        "Select a font size to see the text above change.​",
+        {
+          "transcript": "Avoid writing in all caps because it's more difficult to read than mixed case. Font size is also important for accessibility. Paragraph text should be at least 12 to 14 pts.​Select a font size to see the text above change.​"
+        }
+      ]
+    },
+    {
+      "slide": 28,
+      "data": [
+        "Color Contrast and Color Use ​",
+        "Color contrast refers to the difference in light intensity between foreground elements (like text) and background elements. ​",
+        {
+          "transcript": "Color contrast refers to the difference in light intensity between foreground elements like text and background elements. ​Imagine a document with light gray text on a pale yellow background. This might look aesthetically pleasing, but for users with visual impairments or those using high contrast modes, the text might be difficult or impossible to read. Sufficient contrast is essential for ensuring readability for everyone.​"
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "data": [
+        "Activity – WCAG and Color Contrast",
+        "WCAG provide specific recommendations for color contrast ratios to ensure sufficient legibility.​ While black text on a white background is the most common choice, but you can explore other color combinations that meet WCAG contrast ratios (at least 4.5:1).​ As a quick exercise, use the WebAIM Contrast Checker (opens in a new tab) to check if the color value examples meet the required contrast ratio or not.​",
+        {
+          "transcript": "The Web Content Accessibility Guidelines (WCAG) provide specific recommendations for color contrast ratios to ensure sufficient legibility. While black text on a white background is the most common choice, but you can explore other color combinations that meet WCAG contrast ratios, that is at least 4.5:1. As a quick exercise, use the WebAIM Contrast Checker, which opens in a new tab to check if these color value examples meet the required contrast ratio or not.​FeedbackThe first image has a contrast ratio od 3.81:1 and doesn’t meet the required contrast ratio.​The second image has a contrast ratio od 4.76:1 and just meets the required contrast ratio.​The third image has a contrast ratio od 8.11:1 and is well above the required contrast ratio.​​"
+        }
+      ]
+    },
+    {
+      "slide": 30,
+      "data": [
+        "Using Color Responsibly​",
+        "Color can add visual interest to your document, but it's important to use it strategically to avoid creating accessibility barriers. ​",
+        {
+          "transcript": "Color can add visual interest to your document, but it's important to use it strategically to avoid creating accessibility barriers. Here are some tips for responsible color use:​Don’t rely solely on color to convey information: important information shouldn't be conveyed solely through color differences such as using different colored text to differentiate items in a list.Combine color with other design elements like font styles, bolding, or underlining to emphasize key points. ​"
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "data": [
+        "Alt text ensures that visual content is accessible to those who cannot see it, providing a description that conveys the purpose and content of the image.​",
+        "Follow these steps to add alt text to an image:​ Right-click on the image.​ Select Edit Alt Text from the context menu.​ In the Alt Text pane that appears, enter a concise and descriptive explanation of the image in the text box.​",
+        {
+          "transcript": "Alt text ensures that visual content is accessible to those who cannot see it, providing a description that conveys the purpose and content of the image.​Follow these steps to add alt text to an image:​1.Right-click on the image.​2.Select Edit Alt Text from the context menu.​3.In the Alt Text pane that appears, enter a concise and descriptive explanation of the image in the text box.​​"
+        }
+      ]
+    },
+    {
+      "slide": 32,
+      "data": [
+        "Writing Effective Alt Text​",
+        "A pie chart showing annual budget allocation percentages for IT, marketing, and sales departments. The Alt Text pane describes the chart, with additional content below explaining budget allocation and goal-setting.",
+        {
+          "transcript": "Select the four areas of the document to review how to add effective alt text in Word.​Describe the essential information conveyed by the image, not decorative elements. For example, instead of \"Image of a pie chart,\" describe what the pie chart represents, like \"Pie chart showing budget breakdown for marketing, IT, and sales departments\".​Consider the surrounding text and the overall purpose of the document when writing alt text. This ensures the description aligns with the broader message.​Strive for an accurate and concise description that captures the essence of the image in 125 characters or less.​When describing an action depicted in an image, use strong action verbs to create a clear picture. For example, \"A person climbing a mountain.”​"
+        }
+      ]
+    },
+    {
+      "slide": 33,
+      "data": [
+        "Activity – Writing Alt Text ​",
+        "Use the tips from the previous screen to write alt text for each of these three images.​",
+        {
+          "transcript": "Use the tips from the previous screen to write alt text for each of these three images.​Select a box, type the alt text for all three images and click Submit.​FeedbackCompare the alt text you wrote with the model answer.​"
+        }
+      ]
+    },
+    {
+      "slide": 34,
+      "data": [
+        "AI-Generated Alt Text​",
+        "Artificial intelligence (AI) can be a helpful tool for generating alt text descriptions. However, you must understand both its strengths and limitations.​",
+        {
+          "transcript": "Artificial intelligence, or AI, can be a helpful tool for generating alt text descriptions. However, you must understand both its strengths and limitations.​Select each card to view the strengths and limitations of AI-generated alt text.​AI can quickly generate basic descriptions of images, saving you time, especially for simple graphics. AI can often accurately identify objects within an image, providing a starting point for your alt text.AI might struggle to understand the context of an image or capture its subtle nuances.​For complex images with multiple elements or actions, AI-generated descriptions might be incomplete or lack clarity. AI may not understand humor or sarcasm depicted in an image, resulting in a literal description that misses the intended meaning."
+        }
+      ]
+    },
+    {
+      "slide": 35,
+      "data": [
+        "Creating Accessible Hyperlinks​",
+        "Use hyperlinks in your document to help the reader quickly navigate to other sections within a document, external websites, or additional resources. Screen readers read the link text, not the URL itself. ​ Descriptive link text provides context and clarity to the link's destination without having to click on them first.​",
+        {
+          "transcript": "You can use hyperlinks in your document to help the reader quickly navigate to other sections within a document, external websites, or additional resources. ​However, you should understand that screen readers read the link text, not the URL itself. Descriptive link text provides context and clarity to the link's destination without having to click on them first.​Compare these two examples of non-descriptive links and their descriptive alternatives. ​"
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "data": [
+        "Creating Meaningful Hyperlinks​",
+        "Suppose you have written an article about the steps to select the best laptop and want to include a link to a step-by-step guide that you have come across. ​ These four options are the most common ways in which users include hyperlinks in their document, but only one of them is accessible. ​",
+        {
+          "transcript": "Let’s explore this concept with an example. Suppose you have written an article about the steps to select the best laptop and want to include a link to a step-by-step guide that you have come across. These four options are the most common ways in which users include hyperlinks in their document, but only one of them is accessible. ​Select each option to review tips for creating meaningful links.​Using the full URL as the link text, such as \"http://www.example.com/report.pdf,\" can be confusing and difficult to read, especially for screen reader users.​Link text should clearly describe the destination or purpose of the link. Instead of using generic phrases like \"Click Here\" or \"Read More,\" use specific language such as \"Download the 2023 Annual Report.\"​In addition to being descriptive, link text should also be concise. Aim to convey the necessary information without being overly verbose. ​Ensure that hyperlinks are visually distinct from the surrounding text. Typically, links are underlined, and a different color is used to indicate that they are clickable.​"
+        }
+      ]
+    },
+    {
+      "slide": 37,
+      "data": [
+        "You are creating a document for your company's intranet that outlines new recycling procedures. Within the document, you want to include a link to a more detailed recycling guide for employees.  Which of the following is the most descriptive and accessible way to create a hyperlink to the recycling guide in your document?",
+        "Select the correct option and select Submit.",
+        {
+          "transcript": "You are creating a document for your company's intranet that outlines new recycling procedures. Within the document, you want to include a link to a more detailed recycling guide for employees. Which of the following is the most descriptive and accessible way to create a hyperlink to the recycling guide in your document?Select the correct option and select Submit.Learn More Here:IncorrectThis option is not specific and doesn't tell users what they'll be learning more about.Select NEXT to continue.Click Here for Recycling Guide (docx):IncorrectThis option includes the file format but uses the generic term \"Click Here\" which doesn't provide clear context.Select NEXT to continue.Download the Recycling Guide:CorrectThis option clearly describes the content users will access by clicking the link (the Recycling Guide) and specifies the file format, which is useful for screen reader users who might be using assistive technologies to download the document.Select NEXT to continue.Visit the Recycling Information Page:IncorrectThis option describes the destination but doesn't specify it's a downloadable guide, which might be misleading for users.Select NEXT to continue."
+        }
+      ]
+    },
+    {
+      "slide": 38,
+      "data": [
+        "Lesson 5: \rDocument Metadata for Accessibility",
+        {
+          "transcript": "Select Next to continue.​"
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "data": [
+        "What is Document Metadata?​",
+        "Think of document metadata as hidden tags or labels attached to your Word document. These tags store information like the title, author, creation date, and even keywords describing the document's content. ​ You can't typically see this information in the document itself, but it's crucial for various purposes.​",
+        {
+          "transcript": "Think of document metadata as hidden tags or labels attached to your Word document. These tags store information like the title, author, creation date, and even keywords describing the document's content. You can't typically see this information in the document itself, but it's crucial for various purposes.​"
+        }
+      ]
+    },
+    {
+      "slide": 40,
+      "data": [
+        "Why is Metadata Important for Accessibility?​",
+        "Select each tab to explore the importance of metadata.​",
+        {
+          "transcript": "Select each tab to explore the importance of metadata.Screen Reader Context and NavigationFor users with visual impairments relying on screen readers, metadata provides crucial context before they delve into the document's content. Screen readers can read the title, author, and even keywords, giving users a roadmap of what to expect. This is particularly helpful for lengthy documents or when users need to navigate between multiple documents within a collection, like a course folder.Search and Discovery for Assistive TechnologiesMany assistive technologies allow users to search for specific information within their digital environment. Descriptive document metadata acts like keywords, improving the discoverability of your documents. For instance, a student searching for a report on \"Social Media Marketing\" might find your document much faster if the title and keywords within the metadata accurately reflect the content.​Reduced Reliance on Visual CuesUsers with visual impairments or cognitive disabilities might struggle to interpret visual cues like document titles displayed on screen. Metadata provides an alternative way to access this essential information through screen readers or assistive technologies, promoting independent access to document content.​"
+        }
+      ]
+    },
+    {
+      "slide": 41,
+      "data": [
+        "Editing Document Metadata in Word​",
+        {
+          "transcript": "Select the highlighted section of the screenshot to follow the steps for editing metadata in a document.Select the File tab.Select Info on the left-hand side menu to open the Info pane.This section provides information about your document’s metadata. Select this section for more information on each field.Title refers to is the primary name of your document, which is often displayed in the document tab or file name.Make it clear and concise, accurately reflecting the document's content.Tags are relevant keywords that describe the document's topic.This will enhance search functionality for users with assistive technologies.The Comments section allows you to add any additional notes or information about the document.Provide a brief overview of the document's content, especially for lengthy reports.Author identifies the creator of the document.Accurately entering your name or your department ensures proper attribution."
+        }
+      ]
+    },
+    {
+      "slide": 42,
+      "data": [
+        "When editing the document metadata for your training modules, which of the following elements would be most beneficial to include for accessibility purposes?",
+        "A clear and descriptive title for each module",
+        {
+          "transcript": "When editing the document metadata for your training modules, which of the following elements would be most beneficial to include for accessibility purposes?Select the correct option and select Submit.File size and creation dateIncorrectWhile this metadata might be useful for administrative purposes, it doesn't directly benefit accessibility.Select NEXT to continue.Author department onlyIncorrectIncluding the author's department can be helpful, but a descriptive title provides more specific information about the document's content.Select NEXT to continue.A clear and descriptive title for each moduleCorrectA clear and descriptive title within the document metadata is the first piece of information often announced by screen readers. It provides immediate context for users with visual impairments, helping them identify the specific training module they need.Select NEXT to continue.Internal document reference numberIncorrectInternal reference numbers are typically used for internal tracking purposes and wouldn't be particularly meaningful for users with assistive technologies.Select NEXT to continue."
+        }
+      ]
+    },
+    {
+      "slide": 43,
+      "data": [
+        "Lesson 6: \rTesting and Reviewing for Accessibility Compliance",
+        {
+          "transcript": "Select Next to continue.​"
+        }
+      ]
+    },
+    {
+      "slide": 44,
+      "data": [
+        "What Does the Accessibility Checker Do?​",
+        "An icon of two overlapping windows, one representing a document and the other showing an image or media element. ",
+        {
+          "transcript": "The Accessibility Checker function in Word  scans your document for various accessibility issues, including:missing alt text descriptions for images, charts, and other non-text content, inconsistent heading structures, color contrast issues that might make text difficult to read for users with visual impairments, missing table headers or logical reading order for complex tables, and use of tables for layout purposes instead of their intended data presentation.​"
+        }
+      ]
+    },
+    {
+      "slide": 45,
+      "data": [
+        "Using the Accessibility Checker​",
+        "A screenshot of a document editor with the \"Check Accessibility\" option highlighted in the Review tab. The Accessibility Assistant pane lists issues like color contrast, missing alt text, and missing table headers.",
+        {
+          "transcript": "To use the Accessibility Checker in Word: ​​•Select Check Accessibility in the Review tab.​•The Accessibility Checker task pane will appear on the right side of your document, displaying a list of identified issues categorized by severity, including errors and warnings.​"
+        }
+      ]
+    },
+    {
+      "slide": 46,
+      "data": [
+        "Fixing Issues with the Accessibility Checker​",
+        "A table and bar chart showing the top five English-speaking countries. The Accessibility Assistant panel on the right highlights issues like hard-to-read text contrast, missing alt text, Missing table headers, and No headings in document.  ",
+        {
+          "transcript": "Select the four issues shown in the Accessibility Pane to learn about them.​The checker identifies text or background elements with low contrast and suggests alternative color combinations to improve readability.​The checker offers suggestions for crafting clear and concise alt text descriptions for your images.​For complex tables, the checker might guide you on how to define clear table headers.​The checker flags tables used for layout purposes to encourage the use of more accessible layout options.​The checker can help you identify and fix inconsistencies in heading hierarchy. ​Note that this example document has appropriate headings and is, thus, not flagged by the checker.​"
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "data": [
+        "Accessibility Checker – Issues Fixed​",
+        "A table and chart illustrating the top five English-speaking countries. The Accessibility Assistant panel shows \"Looks good! No issues found.\"",
+        {
+          "transcript": "This is what the document looks like with all the issues fixed. Select the table and chart to identify what fixes were made. ​Headings have been added to the table to clearly distinguish the data in each column.​The text color has been changed to #00000 for sufficient contrast between the background and text.​Alt text has been added to provide a clear visual description of the chart.​"
+        }
+      ]
+    },
+    {
+      "slide": 48,
+      "data": [
+        "While the Accessibility Checker is a powerful tool, it might not catch every single accessibility issue. For complex documents or specific accessibility needs, you might explore additional resources such as:​ WCAG guidelines: These international standards provide a comprehensive framework for web content accessibility, and some principles can be applied to accessible documents as well.​ Third-party accessibility checker tools: These tools offer more in-depth analyses and might identify issues beyond the scope of the built-in checker.​",
+        "Remember: The Accessibility Checker is a valuable tool, but it's not a substitute for creating accessible documents from the beginning. ​ By prioritizing clear formatting, proper heading structures, and alternative text descriptions during document creation, you can significantly reduce the number of issues flagged by the checker.​",
+        {
+          "transcript": "While the Accessibility Checker is a powerful tool, it might not catch every single accessibility issue. For complex documents or specific accessibility needs, you might explore additional resources such as:​WCAG guidelines: These international standards provide a comprehensive framework for web content accessibility, and some principles can be applied to accessible documents as well.​Third-party accessibility checker tools: These tools offer more in-depth analyses and might identify issues beyond the scope of the built-in checker.​Remember: The Accessibility Checker is a valuable tool, but it's not a substitute for creating accessible documents from the beginning. By prioritizing clear formatting, proper heading structures, and alternative text descriptions during document creation, you can significantly reduce the number of issues flagged by the checker.​"
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "data": [
+        "While the Accessibility Checker is a powerful tool, it might not catch every single accessibility issue. For complex documents or specific accessibility needs, you might explore additional resources such as:​ WCAG guidelines: These international standards provide a comprehensive framework for web content accessibility, and some principles can be applied to accessible documents as well.​ Third-party accessibility checker tools: These tools offer more in-depth analyses and might identify issues beyond the scope of the built-in checker.​",
+        "Remember: The Accessibility Checker is a valuable tool, but it's not a substitute for creating accessible documents from the beginning. ​ By prioritizing clear formatting, proper heading structures, and alternative text descriptions during document creation, you can significantly reduce the number of issues flagged by the checker.​",
+        {
+          "transcript": "What is the most important benefit of using the Accessibility Checker on your sales report before finalizing and distributing it?Select the correct option and select Submit.The Accessibility Checker automatically fixes all identified accessibility issues within the document:IncorrectWhile the Accessibility Checker offers suggestions for fixing issues, it doesn't automate the process entirely. You'll still need to review the suggestions and make the necessary changes within the document.Select NEXT to continue.The Accessibility Checker highlights potential accessibility concerns, allowing you to make informed decisions about addressing them:IncorrectThe Accessibility Checker is a valuable tool for identifying potential accessibility barriers within your document. It doesn't fix everything automatically, but it empowers you to make informed decisions about addressing the flagged concerns and improving the overall accessibility of your document.Select NEXT to continue.The Accessibility Checker guarantees your document will be 100% accessible to everyone, regardless of their abilities:CorrectThe Accessibility Checker is a powerful tool, but it's not foolproof. It's always a good practice to test the document with assistive technologies to ensure optimal accessibility.Select NEXT to continue.The Accessibility Checker primarily focuses on improving the visual aesthetics of your document:IncorrectThe Accessibility Checker focuses on identifying and addressing accessibility concerns, not visual aesthetics.Select NEXT to continue."
+        }
+      ]
+    },
+    {
+      "slide": 50,
+      "data": [
+        "What is the most important benefit of using the Accessibility Checker on your sales report before finalizing and distributing it?",
+        "The Accessibility Checker highlights potential accessibility concerns, allowing you to make informed decisions about addressing them.",
+        {
+          "transcript": "What is the most important benefit of using the Accessibility Checker on your sales report before finalizing and distributing it?Select the correct option and select Submit.The Accessibility Checker automatically fixes all identified accessibility issues within the document:IncorrectWhile the Accessibility Checker offers suggestions for fixing issues, it doesn't automate the process entirely. You'll still need to review the suggestions and make the necessary changes within the document.Select NEXT to continue.The Accessibility Checker highlights potential accessibility concerns, allowing you to make informed decisions about addressing them:IncorrectThe Accessibility Checker is a valuable tool for identifying potential accessibility barriers within your document. It doesn't fix everything automatically, but it empowers you to make informed decisions about addressing the flagged concerns and improving the overall accessibility of your document.Select NEXT to continue.The Accessibility Checker guarantees your document will be 100% accessible to everyone, regardless of their abilities:CorrectThe Accessibility Checker is a powerful tool, but it's not foolproof. It's always a good practice to test the document with assistive technologies to ensure optimal accessibility.Select NEXT to continue.The Accessibility Checker primarily focuses on improving the visual aesthetics of your document:IncorrectThe Accessibility Checker focuses on identifying and addressing accessibility concerns, not visual aesthetics.Select NEXT to continue."
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "data": [
+        "Lesson 7: \rAccessible PDF Exports",
+        {
+          "transcript": "Select Next to continue.​"
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "data": [
+        "PDFs can create barriers for users with disabilities if not exported correctly.",
+        "Screen readers interpret these tags, allowing users to navigate the document with ease.",
+        {
+          "transcript": "Why Do Accessible PDFs Matter?There is often a need to export a Word document to the PDF format to preserve its formatting and layout across devices and operating systems. While PDFs offer advantages like portability and consistent formatting, they can create barriers for users with disabilities if not exported correctly. Inaccessible PDFs can be difficult for screen readers to navigate, and users might lose access to essential information within the document.The key to creating accessible PDFs lies in the document \"tags,\" which act as behind-the-scenes instructions within the PDF that describe the document's structure and content. Screen readers interpret these tags, allowing users to navigate the document with ease."
+        }
+      ]
+    },
+    {
+      "slide": 53,
+      "data": [
+        "Creating Accessible PDFs from Word",
+        "Select Play to review a step-by-step approach for creating an accessible PDF from Word.",
+        {
+          "transcript": "Select Play to review a step-by-step approach for creating an accessible PDF from Word.Script of videoThe first step of creating an accessible PDF is to begin with an accessible Word document. Before exporting, review your document for proper heading structure, alternative text for images, and clear formatting. After you have checked your document, select File and Export.Then, select Create PDF/XPS Document as the file type. If you see this message, you may need to go back and review your document to ensure proper heading structure, alternative text for images, and clear formatting before exporting.When the Publish as PDF or XPS window appears, select Options.On the Options window, select the checkbox for Document structure tags for accessibility to embed the essential tags within your PDF. A blue checkmark should appear in the box. Select OK, and then choose a filename and location to save your accessible PDF.Now, the PDF file that you export will be more accessible for those who read it."
+        }
+      ]
+    },
+    {
+      "slide": 54,
+      "data": [
+        "Select the four tabs to review additional tips for creating accessible PDFs. ",
+        "Select the four tabs to review additional tips for creating accessible PDFs.",
+        {
+          "transcript": "Select the four tabs to review additional tips for creating accessible PDFs.Working with Older DocumentsIf you are working with older Word documents that lack proper structure or headings, there are alternative solutions. Some online conversion services or third-party tools can analyze and improve the accessibility of the documents before exporting them to PDF. However, it is important to remember that creating a well-structured document from the beginning is always the ideal approach, as it ensures accessibility from the ground up.Previewing Your PDFAfter exporting your document, it is a good practice to preview the PDF using Adobe Acrobat Reader or a screen reader to test its accessibility. This allows you to identify any potential issues before sharing the document with others. Think of it as a final quality check! By testing the document yourself, you can ensure it functions as intended for users with assistive technologies.Additional ConsiderationsWhen exporting, ensure \"Reflow with Tagged PDF\" is selected. This creates a tagged PDF structure, allowing screen readers to effectively navigate headings, content, and tables.Review and edit the document properties within the PDF settings. This process is similar to editing document metadata in Word. Ensure that the title, author, and subject accurately reflect the content.WCAG ConsiderationsWCAG offers a few more guidelines that are relevant to accessible PDFs.WCAG 1.1.1 - Non-text Content emphasizes providing alternative text descriptions for non-text content, such as images and charts. This ensures that users who rely on screen readers can understand the information conveyed by these elements within the PDF.WCAG 2.4.1 - Bypass Blocks encourages providing ways to skip repetitive blocks of content, like navigation menus or headers, using keyboard shortcuts or other assistive technologies. While not always applicable to simple PDFs, this becomes important for complex documents with repeated content sections."
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "data": [
+        "Select the correct option and select Submit.",
+        "True or false? Using the built-in \"Create PDF/XPS\" option in Microsoft Word is always the best method for creating accessible PDFs.",
+        {
+          "transcript": "True or false? Using the built-in \"Create PDF/XPS\" option in Microsoft Word is always the best method for creating accessible PDFs.Select the correct option and select Submit.•True•FalseCorrectWhile the built-in option is a good starting point, complex documents might require additional tools or settings to optimize accessibility.Select NEXT to continue.IncorrectWhile the built-in option is a good starting point, complex documents might require additional tools or settings to optimize accessibility.Select NEXT to continue."
+        }
+      ]
+    },
+    {
+      "slide": 56,
+      "data": [
+        {
+          "transcript": "Select Next to continue.​"
+        }
+      ]
+    },
+    {
+      "slide": 57,
+      "data": [
+        "Here's a summary of the key insights from this module:",
+        "Use Word's in-built Accessibility Checker to identify and correct potential accessibility issues.",
+        {
+          "transcript": "Here's a summary of the key insights from this module: •Leverage the Navigation and Outline views to optimize your document structure for screen reader users and users who prefer a text-based overview of your content.•Use clear and consistent headings and styles to logically structure your documents.•Consider color contrast and its impact on accessibility and explore strategies for using color responsibly so that your documents are visually appealing and readable for everyone.•Use the table and list styling options in Word, which provide semantic information to assistive technologies such as screen readers.•Craft meaningful and descriptive hyperlinks within your documents to provide information including the destination and purpose of links before users select them.•Explore the potential of AI-powered alternative text generation for images, but review and edit AI-generated descriptions to ensure that they are accurate and provide enough context.•Use document metadata, such as titles, descriptions, and tags, to make your documents discoverable for users with assistive technologies.•Use Word's in-built Accessibility Checker to identify and correct potential accessibility issues in your documents.•Follow best practices for exporting accessible PDFs from Word documents so the information remains accessible even after converting your documents into PDFs."
+        }
+      ]
+    },
+    {
+      "slide": 58,
+      "data": [
+        "References and Additional Resources",
+        "Select each tab to review the references used to create this course and a list of additional resources."
+      ]
+    },
+    {
+      "slide": 59,
+      "data": [
+        "You have completed the course on \rCreating Accessible Documents Using Microsoft Word. ",
+        "You have completed the course on Creating Accessible Documents Using Microsoft Word.",
+        {
+          "transcript": "Congratulations! You have completed the course on Creating Accessible Documents Using Microsoft Word."
+        }
       ]
     }
   ]

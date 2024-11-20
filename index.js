@@ -27,8 +27,16 @@ async function scrapeContent(url) {
       });
     };
 
+    const getTranscriptContent = async () => {
+      return await iframeFrame.evaluate(() => {
+        const transcriptElement = document.querySelector("#transcript-content");
+        return transcriptElement ? transcriptElement.textContent.trim() : null;
+      });
+    };
+
     const processSlide = async (index) => {
       const slideData = await getSlideData();
+      const transcriptContent = await getTranscriptContent();
       const slideDataString = JSON.stringify(slideData);
 
       if (slideDataString === lastSlideContent) {
@@ -41,15 +49,28 @@ async function scrapeContent(url) {
 
       lastSlideContent = slideDataString;
       repeatedMessageCount = 0;
+      const slideObject = { slide: index, data: [] };
+
       if (slideData.length > 0) {
         const title = slideData[0];
         const longestContent = slideData
           .slice(1)
           .sort((a, b) => b.length - a.length)[0];
-        const processedContent = [title, longestContent].filter(Boolean);
+        slideObject.data.push(...[title, longestContent].filter(Boolean));
+      }
 
-        outputData.content.push({ slide: index, data: processedContent });
-        console.log(`Processed Slide ${index}:`, processedContent);
+      if (transcriptContent) {
+        if (!slideObject.data.includes(transcriptContent)) {
+          slideObject.data.push({ transcript: transcriptContent });
+          console.log(`Unique transcript content added for slide ${index}:`, transcriptContent);
+        } else {
+          console.log(`Transcript content matches slide ${index}, skipping addition.`);
+        }
+      }
+
+      if (slideObject.data.length > 0) {
+        outputData.content.push(slideObject);
+        console.log(`Processed Slide ${index}:`, slideObject.data);
         return true;
       } else {
         console.log(`No meaningful content found on slide ${index}.`);
@@ -82,5 +103,5 @@ async function scrapeContent(url) {
 }
 
 const url =
-  "https://360.articulate.com/review/content/f01749e5-807f-4656-a484-cc216ad22af2/review";
+  "https://360.articulate.com/review/content/cbb5baca-a726-47d8-a1cf-dec1c6dc38a6/review";
 scrapeContent(url);
